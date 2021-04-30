@@ -6,7 +6,7 @@
 
 ## Experience ##
 
-### DevOps Associate Manager. (August 2019 – Present) ###
+### DevOps Manager. (August 2019 – Present) ###
 #### Accenture ####
 * Create state-of-the-art technical architectures with automation to support complex delivery across a wide range of digital and enterprise applications
 * Work with industry-leading companies such as Microsoft, Amazon, Atlassian, Docker and CHEF, providing access to the latest tools, solutions and training.
