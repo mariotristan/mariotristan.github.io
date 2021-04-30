@@ -18,7 +18,7 @@
 <img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/CertiProf-Badge-SFPC.png">
 </p></a>
 
-</p>
+
 
 
 ## Experience ##
