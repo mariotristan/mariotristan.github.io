@@ -5,6 +5,7 @@
 * Master's Degree in Information Technology Management, 2018, Tec Milenio.
 
 ## Certifications ##
+
 <p align='center'>
 <a href="https://www.youracclaim.com/earner/earned/badge/e55a31b3-562d-487c-8cac-43ee8e7a3283"><img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/Azure_Fundamental_Icon.png"></a>
 
