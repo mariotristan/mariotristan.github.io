@@ -4,6 +4,20 @@
 * Engineer in Computer Systems , 2005, Instituto Tecnológico de Nuevo Laredo.
 * Master's Degree in Information Technology Management, 2018, Tec Milenio.
 
+## Certifications ##
+<p align='center'>
+<a href="https://www.youracclaim.com/earner/earned/badge/e55a31b3-562d-487c-8cac-43ee8e7a3283"><img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/Azure_Fundamental_Icon.png"></a>
+
+<a href="https://www.youracclaim.com/earner/earned/badge/611af53c-009f-4249-9ca4-26d8cab18010">
+<img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/cloudpractitioner.png"></a>
+
+<a href="https://www.youracclaim.com/earner/earned/badge/1fe5dcbc-d445-44e9-93be-fc4e9e8d865f">
+<img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/CertiProf-Badge-LLL.png"></a>
+
+<a href="https://www.youracclaim.com/earner/earned/badge/9a3e130e-4b73-4872-a2da-ee7034f0a013">
+<img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/CertiProf-Badge-SFPC.png">
+</p></a>
+
 ## Experience ##
 
 ### DevOps Manager. (August 2019 – Present) ###
