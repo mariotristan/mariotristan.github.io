@@ -18,6 +18,7 @@
 
 <a href="https://www.youracclaim.com/earner/earned/badge/9a3e130e-4b73-4872-a2da-ee7034f0a013">
 <img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/CertiProf-Badge-SFPC.png">
+  </a>
 </p>
 
 
