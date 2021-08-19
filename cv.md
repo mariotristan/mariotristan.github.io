@@ -7,16 +7,16 @@
 ## Certifications ##
 
 <p align='center'>
-  <a href="https://www.youracclaim.com/earner/earned/badge/e55a31b3-562d-487c-8cac-43ee8e7a3283"><img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/azure-developer-associate-600x600.png"></a>  
-<a href="https://www.youracclaim.com/earner/earned/badge/e55a31b3-562d-487c-8cac-43ee8e7a3283"><img  height="80" src="https://docs.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"></a>
-<a href="https://www.youracclaim.com/earner/earned/badge/e55a31b3-562d-487c-8cac-43ee8e7a3283"><img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/azure-data-fundamentals-600x600.png"></a>
-<a href="https://www.youracclaim.com/earner/earned/badge/611af53c-009f-4249-9ca4-26d8cab18010">
+  <a href="https://www.credly.com/badges/e0fdd88b-e52c-4ad0-933b-da611956f048/public_url"><img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/azure-developer-associate-600x600.png"></a>  
+<a href="https://www.credly.com/badges/e55a31b3-562d-487c-8cac-43ee8e7a3283/public_url"><img  height="80" src="https://docs.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"></a>
+<a href="https://www.credly.com/badges/e55a31b3-562d-487c-8cac-43ee8e7a3283/public_url"><img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/azure-data-fundamentals-600x600.png"></a>
+<a href="https://www.credly.com/badges/611af53c-009f-4249-9ca4-26d8cab18010/public_url">
 <img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/cloudpractitioner.png"></a>
 
-<a href="https://www.youracclaim.com/earner/earned/badge/1fe5dcbc-d445-44e9-93be-fc4e9e8d865f">
+<a href="https://www.credly.com/badges/1fe5dcbc-d445-44e9-93be-fc4e9e8d865f/public_url">
 <img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/CertiProf-Badge-LLL.png"></a>
 
-<a href="https://www.youracclaim.com/earner/earned/badge/9a3e130e-4b73-4872-a2da-ee7034f0a013">
+<a href="https://www.credly.com/badges/9a3e130e-4b73-4872-a2da-ee7034f0a013/public_url">
 <img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/CertiProf-Badge-SFPC.png">
   </a>
 </p>
