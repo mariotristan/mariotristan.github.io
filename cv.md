@@ -10,6 +10,9 @@
   <a href="https://www.credly.com/badges/e0fdd88b-e52c-4ad0-933b-da611956f048/public_url"><img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/azure-developer-associate-600x600.png"></a>  
 <a href="https://www.credly.com/badges/e55a31b3-562d-487c-8cac-43ee8e7a3283/public_url"><img  height="80" src="https://docs.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"></a>
 <a href="https://www.credly.com/badges/e55a31b3-562d-487c-8cac-43ee8e7a3283/public_url"><img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/azure-data-fundamentals-600x600.png"></a>
+	<a href="https://www.credly.com/badges/9d3a9f5d-6806-48b3-9a4f-bb9415fb9092/public_url"><img
+						height="80"
+						src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/microsoft-certified-azure-ai-fundamentals.png"></a>
 <a href="https://www.credly.com/badges/611af53c-009f-4249-9ca4-26d8cab18010/public_url">
 <img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/cloudpractitioner.png"></a>
 
@@ -25,6 +28,16 @@
 
 
 ## Experience ##
+### Pricipal DevOps Engineer. (August 2021 - Present) ###
+#### Solera ####
+
+* Work collaboratively with other operations leads to implement deployment automation solutions for Solera products and projects
+* Hire, lead, and and manage an effective engineering function to support productive development and quality of life for the team
+* Refine and transform operational processes in highly available enterprise class systems
+* Participate in an on-call rotation along with other senior members of the Global IT Operations team.
+* Build up and maintain the SCM product roadmap/schedule with estimation of the scope of work
+* Provide engineering execution excellence, as well as technical vision and direction, to ensure the source code management team is aligned with the strategy of the company
+* Create and deliver executive and c-level presentations to support buy-in and communicate goals.
 
 ### DevOps Manager. (August 2019 – August 2021) ###
 #### Accenture ####
