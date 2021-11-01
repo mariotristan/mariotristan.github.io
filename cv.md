@@ -28,7 +28,7 @@
 
 
 ## Experience ##
-### Pricipal DevOps Engineer. (August 2021 - Present) ###
+### Principal DevOps Engineer. (August 2021 - Present) ###
 #### Solera ####
 
 * Work collaboratively with other operations leads to implement deployment automation solutions for Solera products and projects
