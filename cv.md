@@ -26,7 +26,17 @@
 
 
 ## Experience ##
-### Principal DevOps Engineer. (August 2021 - Present) ###
+
+### DevOps Engineer. (January 2022 - Present) ###
+#### Digital@FEMSA ####
+
+* Work collaboratively with other operations leads to implement deployment automation solutions for Digital@FEMSA products and projects
+* Create state-of-the-art technical architectures with automation to support complex delivery across a wide range of digital and enterprise applications
+* Engaging developers in incident handling, ensure that Developers are taking responsibility for their code, making sure that it is working correctly, helping (often taking the role of first responders) to investigate and resolve production problems.
+* Ensure that all changes to code and configuration are done using automated, traceable and repeatable mechanisms
+* Harness open source, enterprise and public cloud technologies and leverage the DevOps practices to deliver best-of-breed Continuous Integration and Continuous Delivery solutions to enable teams to innovate more quickly and effectively.
+
+### Principal DevOps Engineer. (August 2021 - January 2022) ###
 #### Solera ####
 
 * Work collaboratively with other operations leads to implement deployment automation solutions for Solera products and projects
