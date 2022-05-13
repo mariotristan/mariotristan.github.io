@@ -11,7 +11,9 @@
 	<a href="https://www.credly.com/badges/a84a9db9-1153-479d-acd9-5a11ae32f11c/public_url" target="_blank"><img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/azure-administrator-associate-600x600.png"></a>  
 	   <a href="https://www.credly.com/badges/60ad9c14-1f91-4c4a-ad4e-acc21d2d017e/public_url" target="_blank"><img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/azure-ai-engineer-600x600-removebg-preview.png"></a>
   <a href="https://www.credly.com/badges/e0fdd88b-e52c-4ad0-933b-da611956f048/public_url"><img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/azure-developer-associate-600x600.png"></a>  
-<a href="https://www.credly.com/badges/e55a31b3-562d-487c-8cac-43ee8e7a3283/public_url"><img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/azure-fundamentals-600x600.png"></a>
+<a href="https://www.credly.com/badges/e55a31b3-562d-487c-8cac-43ee8e7a3283/public_url">
+	    <a href="https://www.credly.com/badges/707c7204-671b-4777-9baf-7f208f70fa69/public_url" target="_blank"><img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/microsoft-certified-azure-data-scientist-associate.png"></a> 	
+	<img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/azure-fundamentals-600x600.png"></a>
 <a href="https://www.credly.com/badges/e55a31b3-562d-487c-8cac-43ee8e7a3283/public_url"><img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/azure-data-fundamentals-600x600.png"></a>
 	<a href="https://www.credly.com/badges/9d3a9f5d-6806-48b3-9a4f-bb9415fb9092/public_url"><img height="80"
 						src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/microsoft-certified-azure-ai-fundamentals.png"></a>
