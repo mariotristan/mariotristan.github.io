@@ -1,10 +1,44 @@
 <html>
-	<meta http-equiv="refresh" content="0; url=https://mariotristan.github.io/quickstart/" />
+	<meta http-equiv="refresh" content="1; url=https://mariotristan.github.io/quickstart/" />
   <head>
-    <!-- The Head tag is used to create a title of web page, CSS syntax for a web page, and helps in written a JavaScript code. -->
-  </head>
-  <body bgcolor="black" >
-	<img src="https://mariotristan.github.io/quickstart/images/mario8bit.png" />
+    <style>
+		body {
+		  background: #080000;
+		}
+		
+		.content {
+		  max-width: 500px;
+		  margin: auto;
+		  background: rgb(7, 0, 0);
+		  padding: 10px;
+		}
+
+		
+.a {
     
+	animation: pulse 1s linear infinite;
+}
+
+@-webkit-keyframes "pulse" {
+0% {
+ -webkit-transform: scale(1.1);
+ transform: scale(1.1);
+}
+50% {
+-webkit-transform: scale(0.8);
+transform: scale(0.8);
+}
+100% {
+ -webkit-transform: scale(1);
+transform: scale(1);
+}
+}
+		</style>
+  </head>
+  <body bgcolor="black"  >
+	
+<div class="content">
+	<img class="a" src="https://mariotristan.github.io/quickstart/images/mario8bit.png" />
+</div>
   </body>
 </html>
